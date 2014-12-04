@@ -19,3 +19,12 @@ var weekly = prompt("How many hours do you think you spend at your computer week
 //check to make sure the information is in the console log
 console.log (weekly);
 
+//calculate the number hours spent
+
+// set variable month
+var month = 4;
+
+//calculate the hours spent every month
+var monthlyHours = month*weekly
+
+alert("You spend an average of "+monthlyHours+" hours on your computer every month.");
