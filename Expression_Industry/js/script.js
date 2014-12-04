@@ -43,7 +43,7 @@ console.log (future);
 // now do the math
 var futureHours = future*yearly;
 
-
+alert("If you continue with the same hours spend on your computer as you do now. You will spend "+futureHours+" on your computer over the next "+future+" years.");
 
 
 
