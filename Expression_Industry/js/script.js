@@ -13,4 +13,9 @@ var name = prompt("What is your name?");
 
 alert("Hello "+name+". Now let's figure out how many hours on average do you spend on the computer a month.");
 
+// create variable to hold information that is requested
+var weekly = prompt("How many hours do you think you spend at your computer weekly?");
+
+//check to make sure the information is in the console log
+console.log (weekly);
 
