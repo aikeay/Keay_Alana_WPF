@@ -25,6 +25,14 @@ console.log (weekly);
 var month = 4;
 
 //calculate the hours spent every month
-var monthlyHours = month*weekly
+var monthlyHours = month*weekly;
 
 alert("You spend an average of "+monthlyHours+" hours on your computer every month.");
+
+//calculate how many weeks are in a year
+var yearWeeks = 52.1775;
+var yearly = yearWeeks*weekly;
+
+alert ("You spend "+yearly+" hours on your computer a year.");
+console.log (yearly);
+
