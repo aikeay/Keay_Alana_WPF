@@ -23,6 +23,7 @@ var hieght = prompt("How tall is your closet in ft?");
 console.log (hieght);
 
 // calculate the closet size
-var closet = length*width*innerHeight
+var closet = length*width*hieght;
+alert("Your closet is "+closet+"sqft.");
 
 
