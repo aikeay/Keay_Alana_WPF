@@ -1,3 +1,6 @@
-/**
- * Created by alana on 12/4/2014.
+/*
+*Alana Keay
+* SDI Section # 4
+* Expression Wacky Assignment
+* 12-4-2014
  */
