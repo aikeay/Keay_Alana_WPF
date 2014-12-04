@@ -36,3 +36,14 @@ var yearly = yearWeeks*weekly;
 alert ("You spend "+yearly+" hours on your computer a year.");
 console.log (yearly);
 
+//calculate the number of hours spent on your come if you continue down this same path
+var future = prompt("How many years in the future do you want to know about?");
+console.log (future);
+
+// now do the math
+var futureHours = future*yearly;
+
+
+
+
+
