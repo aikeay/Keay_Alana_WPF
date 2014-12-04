@@ -30,3 +30,13 @@ var milkDrank = month*year
 
 alert("You drink "+milkDrank+" gallons of milk in one year.");
 
+//a little more complex
+// calculate the number of gallons of milk you could drink if you continued drinking your normal monthly quota over a number of years
+var futureMilk = prompt("I can tell you how many gallons of milk you will drink over the years if you continue with the same path you are now. How many years do you want to know about? ");
+
+console.log(futureMilk)
+
+var futureDrank = milkDrank*Number(futureMilk);
+console.log(futureDrank)
+
+alert("You will drink a "+futureDrank+" gallons of milk over the next "+futureMilk+" years.");
