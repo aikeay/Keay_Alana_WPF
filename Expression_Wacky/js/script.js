@@ -28,4 +28,9 @@ alert("Your closet is "+closet+"sqft.");
 
 alert("Our records show that we are out of shock on all monsters but the purple poka doted monsters. Our purple monster are the compacted monsters which only take up 2 sqft");
 
+var monster = 2
+var max = closet/monster
+
+alert("You could have as many as "+max+" monsters in your closet. They loved to be stacked.");
+
 
