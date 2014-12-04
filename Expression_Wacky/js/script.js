@@ -15,10 +15,14 @@ var name = prompt("What is your name?");
 alert("Hello "+name+"! Where are going to find out how many monsters that you could fit in your closet but first we are going to be some information.");
 
 // set up some variables
-var length = prompt("How long is your closet?");
+var length = prompt("How long is your closet in ft?");
 console.log (length);
-var width = prompt("How wide is your closet?");
+var width = prompt("How wide is your closet in ft?");
 console.log (width);
-var hieght = prompt("How tall is your closet?");
-console.log (Hieght);
+var hieght = prompt("How tall is your closet in ft?");
+console.log (hieght);
+
+// calculate the closet size
+var closet = length*width*innerHeight
+
 
