@@ -6,3 +6,9 @@
  */
 
 //alert("test test");
+
+// created the conditional that uses how many website you will create
+
+var career = prompt("Do you create websites as a career?");
+console.log(career);
+
