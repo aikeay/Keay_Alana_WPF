@@ -11,4 +11,5 @@
 
 var career = prompt("Do you create websites as a career?");
 console.log(career);
-
+var monthly = prompt("How many websites do you create in a month?")
+console.log(monthly);
