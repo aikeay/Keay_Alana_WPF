@@ -26,7 +26,7 @@ console.log (hieght);
 var closets = length*width*hieght;
 alert("Your closet is "+closets+"sqft.");
 
-alert("Our records show that we are out of shock on all monsters but the purple poka doted monsters. Our purple monster are the compacted monsters which only take up 2 sqft");
+alert("Our records show that we are out of shock on all monsters but the purple poka doted monsters. Our purple monster are the compacted size monsters which only take up 2 sqft");
 
 var monster = 2
 var max = closets/monster
