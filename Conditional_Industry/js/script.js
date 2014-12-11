@@ -7,9 +7,10 @@
 
 //alert("test test");
 
-// created the conditional that uses how many website you will create
+// created the conditional that calculates if you make enough to cover your cost of living
 
-var career = prompt("Do you create websites as a career?");
+var career = prompt("How much do you make a month creating websites?");
 console.log(career);
-var monthly = prompt("How many websites do you create in a month?")
+var monthly = prompt("How much is your cost of living?")
 console.log(monthly);
+// 
