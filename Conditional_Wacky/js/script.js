@@ -8,6 +8,9 @@
 
 // create conditional wacky assignment. how many birds does it take to make your house fly
 
-var house =prompt("How much does your house weight?")
+var house = prompt("How much does your house  in lbs?")
+console.log(house)
 
-// if 
+var birds = prompt("how many birds do you have?")
+console.log(birds)
+
