@@ -14,14 +14,14 @@ console.log(house);
 var birds = prompt("how many birds do you have?");
 console.log(birds);
 
-var friendsBirds = prompts("Does your friends have any birds you can use? If none enter 0.");
+var friendsBirds = prompt("Does your friends have any birds you can use? If none enter 0.");
 console.log(friendsBirds);
 
 // for each lb you need 2 birds
 var possibleFlight = house*2
 
-if(possibleFlight<birds || friendsBirds<possibleFlight){
-    console.log("you need to get more birds")
+if(possibleFlight<birds || possibleFlight<friendsBirds){
+    console.log("You can make your house fly!");
 }else{
-    console.log("You can make your house fly!")
+    console.log("You need to get more birds.");
 }
