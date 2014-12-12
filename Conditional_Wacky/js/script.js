@@ -8,15 +8,20 @@
 
 // create conditional wacky assignment. how many birds does it take to make your house fly
 
-var house = prompt("How much does your house in lbs?")
-console.log(house)
+var house = prompt("How much does your house in lbs?");
+console.log(house);
 
-var birds = prompt("how many birds do you have?")
-console.log(birds)
+var birds = prompt("how many birds do you have?");
+console.log(birds);
 
-var friendsBirds = prompts("Does your friends have any birds you can use? If none enter 0.")
+var friendsBirds = prompts("Does your friends have any birds you can use? If none enter 0.");
+console.log(friendsBirds);
 
 // for each lb you need 2 birds
 var possibleFlight = house*2
 
-if(possibleFlight<birds )
+if(possibleFlight<birds || friendsBirds<possibleFlight){
+    console.log("you need to get more birds")
+}else{
+    console.log("You can make your house fly!")
+}
