@@ -4,7 +4,7 @@
 
 //alert ("testing testing");
 
-var bowlOfFruit = ["apple","banana","pear","peach","pear","tomato","kiwi","pear"];
+var bowlOfFruit = ["apple","apple","banana","pear","peach","pear","tomato","kiwi","pear","banana", "pear"];
 
 // console.log the whole array
 console.log(bowlOfFruit);
@@ -67,3 +67,63 @@ if(bowlOfFruit[3]=== "pear"){
 }
 //Report out how many pears we have
 console.log("There are "+totalNumPears+" number of pears in the bowl.");
+
+// we want the computer to do the "heavy lifting" for us
+
+// create a new tracking variable for pears
+var pearNumber=0
+
+// create a loop for repetitive code
+
+
+//For Loop - is great for when you know how many times it should run
+// for(initialize a counting variable; condition to test; incremental change)
+// {code to run each loop around}
+
+for(var i=0;i<bowlOfFruit.length;i++){
+    console.log ("inside of the loop " +i);
+    console.log(bowlOfFruit[i]);
+
+    //Test each fruit if it is a pear
+    if(bowlOfFruit[i]==="pear"){
+        //add to our pear total
+        pearNumber++;
+        console.log("This is a pear");
+
+    }else{
+        console.log("This fruit is NOT a pear!")
+    }
+
+}
+
+console.log("Total number of pears inside the bowl is "+pearNumber+"")
+
+
+//using conditional to validate prompts
+
+// ask the user to input
+var userInput = prompt("What is your name?")
+
+//how do i test if the user left it blank?
+if (userInput=== ""){
+    //The user left it blank
+
+    //Re-prompt the user
+    userInput=prompt("Please do not leave blank, what is your name?");
+
+}
+console.log("Welcome "+userInput);
+
+// Test if user types in a number?
+//isNaN() - Is Not A Number
+
+console.log(isNaN("test"));
+console.log(isNaN(7));
+
+var usernumber = prompt("type in any number");
+if(isNaN(usernumber)){
+    //This is a text string
+    //reprompt the user for a number
+    usernumber= prompt("Only type in a number")
+
+}
