@@ -15,8 +15,10 @@ var windows = prompt("How many windows would you like to replace on your house? 
 while(windows==="" || isNaN(windows)) {
     // Reprompt user
     if (windows === "") {
-        min = prompt("Please do not leave blank \n Please type in a amount")
+        windows = prompt("Please do not leave blank \n Please type in a amount")
     } else {
-        min = prompt("please type in a min number \n Please type in a number:");
+        windows = prompt("please type in a min number \n Please type in a number:");
     }
 }
+// create door variable
+var doors = prompt("How many doors would you like to replace? \n Please type in a number:");
