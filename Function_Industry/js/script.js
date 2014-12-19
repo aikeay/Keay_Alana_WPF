@@ -9,10 +9,14 @@
 
 // create a calculator to figure how many articles we can fit in your webpage
 
-function totalArticles(){
+var total =articles
+
+function articles(){
 // create the variable of average size for an article within the function in (K)bytes
     var articleArea = 14
     var areaWebpage = 1600
-    var totalArticles = areaWebpage/articleArea
+    var totalArticles = (areaWebpage/articleArea)
+    return totalArticles;
 
 }
+console.log(total)
