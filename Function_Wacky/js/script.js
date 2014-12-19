@@ -18,11 +18,12 @@ while(weight==="" || isNaN(weight)){
     console.log(weight)
 //create the variable for how many lbs dogs can pull because dogs never get tired
 var dogsPull = Number(2)
+console.log(dogsPull)
 
-var dogsNeed = function(weight, dogsPull ){
+var dogsNeed = function(){
   var dogs = Math.round(weight/dogsPull)
     return dogs
 }
-
+//create report for number of dogs needed to transport you to your destination
 var transport = dogsNeed()
 console.log(transport)

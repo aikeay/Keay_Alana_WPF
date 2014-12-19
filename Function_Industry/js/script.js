@@ -11,12 +11,14 @@
 // create the variable of average size for an article within the function in (K)bytes
 
 
-function totalArt (){
+function TotalArticles(){
 
     var articleArea = 14
     var areaWebpage = 1600
-    var totalArt = Number(areaWebpage)/Number(articleArea)
-    console.log(totalArt)
+    var totalArt = Math.round(areaWebpage / articleArea)
     return totalArt
 }
-console.log("You have a total of "+totalArt+" that you can add to your webpage.")
+var total = TotalArticles()
+console.log ("You have a total "+total+" of articles that you can add to your webpage")
+
+
