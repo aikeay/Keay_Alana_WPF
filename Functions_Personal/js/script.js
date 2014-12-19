@@ -43,5 +43,5 @@ var windPrice = 500
 var doorPrice = 1200
 
 //create function to find out the house to replace the windows and doors
-var totalPrice = (windows*windPrice + doors*doorPrice)
-console.log(totalPrice)
+var totalPrice = (windows*windPrice + doors*doorPrice);
+console.log("You total would be "+totalPrice);
