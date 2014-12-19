@@ -21,3 +21,6 @@ while(weight==="" || isNaN(weight)){
     // reprompt the user
     weight = prompt(" Please do not leave blank and only use numbers. \n Please type a weight:")
 }
+//create the variable for how many lbs dogs can pull
+var dogsPull = 2
+function 
