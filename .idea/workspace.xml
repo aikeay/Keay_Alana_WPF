@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e932caa6-d97f-452e-b84f-540bee5f505d" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Function_Wacky/function_wacky.html" afterPath="$PROJECT_DIR$/Function_Wacky/function_wacky.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Function_Industry/js/script.js" afterPath="$PROJECT_DIR$/Function_Industry/js/script.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Function_Wacky/js/script.js" afterPath="$PROJECT_DIR$/Function_Wacky/js/script.js" />
     </list>
     <ignored path="Keay_Alana_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -40,27 +42,27 @@
         <entry file="file://$PROJECT_DIR$/Function_Industry/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
-              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <caret line="5" column="24" selection-start-line="2" selection-start-column="3" selection-end-line="5" selection-end-column="24" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Function_Wacky/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.06955178" vertical-offset="0" max-vertical-offset="647">
+              <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="function_wacky.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="function_wacky.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Function_Wacky/function_wacky.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="623">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="240">
+              <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -99,9 +101,9 @@
         <option value="$PROJECT_DIR$/Functions_Personal/Functions_Personal.html" />
         <option value="$PROJECT_DIR$/Function_Industry/function industry.html" />
         <option value="$PROJECT_DIR$/Functions_Personal/js/script.js" />
+        <option value="$PROJECT_DIR$/Function_Wacky/function_wacky.html" />
         <option value="$PROJECT_DIR$/Function_Industry/js/script.js" />
         <option value="$PROJECT_DIR$/Function_Wacky/js/script.js" />
-        <option value="$PROJECT_DIR$/Function_Wacky/function_wacky.html" />
       </list>
     </option>
   </component>
@@ -653,26 +655,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Function_Wacky/function_wacky.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="240">
+          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Function_Industry/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <caret line="5" column="24" selection-start-line="2" selection-start-column="3" selection-end-line="5" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Function_Wacky/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="647">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Function_Wacky/function_wacky.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="647">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.06955178" vertical-offset="0" max-vertical-offset="647">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
           <folding />
         </state>
       </provider>

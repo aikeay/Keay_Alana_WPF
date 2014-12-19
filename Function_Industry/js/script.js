@@ -1,5 +1,5 @@
 /**
- * /*
+ *
  * Alana Keay
  * SDI Section #4
  * Function Industry Assignment
