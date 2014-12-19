@@ -32,3 +32,7 @@ while(doors==="" ||isNaN(doors)){
     }
 
 }
+//create window price assuming all windows cost the same no matter the size
+var windPrice = 500
+
+
