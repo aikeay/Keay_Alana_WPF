@@ -11,8 +11,8 @@
 
 function totalArticles(){
 // create the variable of average size for an article within the function in (K)bytes
-    var articleArea = 
+    var articleArea = 14
     var areaWebpage = 1600
-    var numberOfArticles =
-}
+    var totalArticles = areaWebpage/articleArea
 
+}
