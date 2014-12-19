@@ -7,6 +7,8 @@
  */
 //alert("test")
 
-// create a random shape picker for your next web page
-// you need a center shape for your next web page but you want it to be a random pick so you need a little help
-var shapes = ("circle", "square", "rectangle", "triangle", "octagon", "oval")
+// create a calculator to figure how many articles we can fit in your webpage
+function webPage(w, h, l){
+    
+}
+
