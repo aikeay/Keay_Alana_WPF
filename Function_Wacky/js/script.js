@@ -4,3 +4,14 @@
  * Function Wacky Assignment
  * Created on 12-17-2014
  */
+
+//alert("Test")
+
+// create a calculator that you can use to figure out how many dogs you will need as transport
+//create variable for distance
+var distance = prompt("How many miles do you want to travel?")
+while(distance==="" || isNaN(distance)){
+    // reprompt the user
+    distance = prompt(" Please do not leave blank and only use numbers. \n Please type a distance:")
+}
+    console.log(distance)
