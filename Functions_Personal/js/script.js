@@ -17,8 +17,18 @@ while(windows==="" || isNaN(windows)) {
     if (windows === "") {
         windows = prompt("Please do not leave blank \n Please type in a amount")
     } else {
-        windows = prompt("please type in a min number \n Please type in a number:");
+        windows = prompt("please type in a number \n Please type in a number:");
     }
 }
 // create door variable
 var doors = prompt("How many doors would you like to replace? \n Please type in a number:");
+// make sure you validate
+while(doors==="" ||isNaN(doors)){
+    //Reprompt user
+    if(doors === ""){
+        doors = prompt("Please do not leave blank \n Please type in a amount" )
+    }else{
+        doors = prompt ("Please type in a number \n Please type in a number: ");
+    }
+
+}
