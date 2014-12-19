@@ -30,7 +30,7 @@
         <entry file="file://$PROJECT_DIR$/GoTo Training week 4/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="658" max-vertical-offset="1530">
-              <caret line="70" column="1" selection-start-line="67" selection-start-column="0" selection-end-line="70" selection-end-column="1" />
+              <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -49,8 +49,8 @@
       <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Function_Wacky/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5795981" vertical-offset="0" max-vertical-offset="647">
-              <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+            <state vertical-scroll-proportion="0.51004636" vertical-offset="0" max-vertical-offset="647">
+              <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -653,6 +653,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/GoTo Training week 4/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="658" max-vertical-offset="1530">
+          <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Function_Industry/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
@@ -661,18 +669,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GoTo Training week 4/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="658" max-vertical-offset="1530">
-          <caret line="70" column="1" selection-start-line="67" selection-start-column="0" selection-end-line="70" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Function_Wacky/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5795981" vertical-offset="0" max-vertical-offset="647">
-          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+        <state vertical-scroll-proportion="0.51004636" vertical-offset="0" max-vertical-offset="647">
+          <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
           <folding />
         </state>
       </provider>
